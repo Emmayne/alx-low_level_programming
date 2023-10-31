@@ -1,2 +1,0 @@
-NEW PROJECT
-File I/O
